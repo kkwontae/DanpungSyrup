@@ -54,7 +54,7 @@ async def changePrefix(ctx, prefix):
     #명령 수식어 기본값을 (;;)로 지정
     prefixes[str(ctx.guild.id)] = prefix
 
-    with open('prefixes.json','w') as f:
+    with open('data/prefixes.json','w') as f:
         json.dump(prefixes, f, indent=4)
 
 @client.command()
