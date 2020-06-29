@@ -3,6 +3,10 @@ import os
 import json
 from discord.ext import commands
 
+currentDir = os.path.dirname(__file__)
+
+COGS_DIRS = os.path.join(currentDir, "cogs")
+
 def get_prefix(client, message):
     with open('data/prefixes.json', 'r') as f:
         prefixes = json.load(f)
@@ -57,7 +61,7 @@ async def changePrefix(ctx, prefix):
 @commands.has_role('MapleBotDeveloper')
 async def reload(ctx, extension=None):
     if extension==None:
-        for filename in os.listdir('.\\cogs'):
+        for filename in os.listdir(COGS_DIRS):
             if filename.endswith('.py'):
                 client.unload_extension(f'cogs.{filename[:-3]}')
                 client.load_extension(f'cogs.{filename[:-3]}')
@@ -67,7 +71,7 @@ async def reload(ctx, extension=None):
         finally:
             client.load_extension(f'cogs.{extension}')
 
-for filename in os.listdir('.\\cogs'):
+for filename in os.listdir(COGS_DIRS):
     if filename.endswith('.py'):
         client.load_extension(f'cogs.{filename[:-3]}')
 
