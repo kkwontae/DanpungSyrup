@@ -1,0 +1,156 @@
+{
+    "date": {
+        "start": "20200528",
+        "end": "20200617"
+    },
+    "1": {
+        "itemname": "[\uc2a4\ud398\uc15c \ub77c\ubca8] \ubc18\uc9dd\uc774\ub294 \ub9c8\uc74c",
+        "chances": "3.1%",
+        "consts": 31,
+        "count": 0
+    },
+    "2": {
+        "itemname": "[\uc2a4\ud398\uc15c \ub77c\ubca8] \uafc8\uc758 \uc720\ub791 (\ub0a8) / \uafc8\uc758 \uc5ec\ud589 (\uc5ec)",
+        "chances": "3.2%",
+        "consts": 63,
+        "count": 0
+    },
+    "3": {
+        "itemname": "[\uc2a4\ud398\uc15c \ub77c\ubca8] \uc3df\uc544\uc9c0\ub294 \ud587\uc0b4",
+        "chances": "3.0%",
+        "consts": 93,
+        "count": 0
+    },
+    "4": {
+        "itemname": "[\uc2a4\ud398\uc15c \ub77c\ubca8] \uacbd\ucf8c\ud55c \uc2a4\ud15d",
+        "chances": "3.2%",
+        "consts": 125,
+        "count": 0
+    },
+    "5": {
+        "itemname": "[\uc2a4\ud398\uc15c \ub77c\ubca8] \uafc8\uafb8\ub294 \uc5ec\ud589\uac00",
+        "chances": "2.5%",
+        "consts": 150,
+        "count": 0
+    },
+    "6": {
+        "itemname": "\ud3ec\ub3c4\uc54c \ucea1",
+        "chances": "5.0%",
+        "consts": 200,
+        "count": 0
+    },
+    "7": {
+        "itemname": "\ud3ec\ub3c4\uc54c \ubc18\ubc14\uc9c0 (\ub0a8) / \ud3ec\ub3c4\uc54c \uc6d0\ud53c\uc2a4 (\uc5ec)",
+        "chances": "3.5%",
+        "consts": 235,
+        "count": 0
+    },
+    "8": {
+        "itemname": "\ud3ec\ub3c4\uc54c \uad6c\ub450",
+        "chances": "5.0%",
+        "consts": 285,
+        "count": 0
+    },
+    "9": {
+        "itemname": "\ud3ec\ub3c4\uac00 \uc88b\uc544",
+        "chances": "5.0%",
+        "consts": 335,
+        "count": 0
+    },
+    "10": {
+        "itemname": "\ud3ec\ub3c4\uc54c\uc758 \ub9c8\ubc95",
+        "chances": "4.5%",
+        "consts": 380,
+        "count": 0
+    },
+    "11": {
+        "itemname": "\ub108\ubb34\ud574 \uc5bc\uad74",
+        "chances": "3.5%",
+        "consts": 415,
+        "count": 0
+    },
+    "12": {
+        "itemname": "\uce58\uc5b4\ub9c1 \ube14\ub8e8",
+        "chances": "2.0%",
+        "consts": 435,
+        "count": 0
+    },
+    "13": {
+        "itemname": "\uc544\uac00\ubf40\ubf40 \ubcf4\ub137",
+        "chances": "5.0%",
+        "consts": 485,
+        "count": 0
+    },
+    "14": {
+        "itemname": "\uc544\uac00\ubf40\ubf40 \uc6b0\uc8fc\ubcf5",
+        "chances": "2.0%",
+        "consts": 505,
+        "count": 0
+    },
+    "15": {
+        "itemname": "\uc544\uac00\ubf40\ubf40 \uc7a5\ub09c\uac10",
+        "chances": "1.5%",
+        "consts": 520,
+        "count": 0
+    },
+    "16": {
+        "itemname": "\uc544\uac00\ubf40\ubf40",
+        "chances": "3.5%",
+        "consts": 555,
+        "count": 0
+    },
+    "17": {
+        "itemname": "\uc9dd\uc9dd\uc774 \ubc18\ubc14\uc9c0",
+        "chances": "5.0%",
+        "consts": 605,
+        "count": 0
+    },
+    "18": {
+        "itemname": "\ub450\uadfc\ub450\uadfc \ud6c4\ub514",
+        "chances": "5.0%",
+        "consts": 655,
+        "count": 0
+    },
+    "19": {
+        "itemname": "\uac1c\uad6c\ub9ac \ube57\ubc29\uc6b8",
+        "chances": "5.0%",
+        "consts": 705,
+        "count": 0
+    },
+    "20": {
+        "itemname": "\uc544\uc784 \ud504\ub9ac\ud2f0 \ud14c\ub514",
+        "chances": "5.0%",
+        "consts": 755,
+        "count": 0
+    },
+    "21": {
+        "itemname": "New \ubaa8\uc790 \uc18d \ud1a0\ub07c",
+        "chances": "4.5%",
+        "consts": 800,
+        "count": 0
+    },
+    "22": {
+        "itemname": "[30\uc77c] \ud3ec\ub3c4\uc54c \ub9d0\ud48d\uc120\ubc18\uc9c0 \uad50\ud658\uad8c",
+        "chances": "5.0%",
+        "consts": 850,
+        "count": 0
+    },
+    "23": {
+        "itemname": "[30\uc77c] \ud3ec\ub3c4\uc54c \uba85\ucc30\ubc18\uc9c0 \uad50\ud658\uad8c",
+        "chances": "5.0%",
+        "consts": 900,
+        "count": 0
+    },
+    "24": {
+        "itemname": "\ub2e4 \ub0b4\uac70\uc57c \uc758\uc790",
+        "chances": "5.0%",
+        "consts": 950,
+        "count": 0
+    },
+    "25": {
+        "itemname": "\uc2a4\uce74\uc6b0\ud130",
+        "chances": "5.0%",
+        "consts": 1000,
+        "count": 0
+    }
+}

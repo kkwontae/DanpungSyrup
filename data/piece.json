@@ -1,0 +1,536 @@
+{
+    "date": {
+        "start": "20200528",
+        "end": "20200617"
+    },
+    "\ubaa8\uc790": {
+        "1": {
+            "itemname": "\uc608\uc2a4 \ucea1\ud2f4",
+            "chances_r": "7.71%",
+            "consts_r": 771,
+            "chances_b": "6.52%",
+            "consts_b": 652,
+            "count": 0
+        },
+        "2": {
+            "itemname": "\uaf43\ub098\ube44",
+            "chances_r": "7.71%",
+            "consts_r": 1542,
+            "chances_b": "6.52%",
+            "consts_b": 1304,
+            "count": 0
+        },
+        "3": {
+            "itemname": "\uc544\uae30\uacf0 \ud398\ub3c4\ub77c",
+            "chances_r": "7.71%",
+            "consts_r": 2313,
+            "chances_b": "6.52%",
+            "consts_b": 1956,
+            "count": 0
+        },
+        "4": {
+            "itemname": "\uc0e4\uc774\ub2dd \ubb38\ub77c\uc774\ud2b8 (\ub0a8\uc790\ub9cc \ud68d\ub4dd\uac00\ub2a5) / \uae00\ub8e8\ubbf8 \ubb38\ub77c\uc774\ud2b8 (\uc5ec\uc790\ub9cc \ud68d\ub4dd\uac00\ub2a5)",
+            "chances_r": "7.71%",
+            "consts_r": 3084,
+            "chances_b": "6.52%",
+            "consts_b": 2608,
+            "count": 0
+        },
+        "5": {
+            "itemname": "\ud558\ub298 \uba40\ub9ac (\ub0a8\uc790\ub9cc \ud68d\ub4dd\uac00\ub2a5) / \ud558\ub298 \ub192\uc774 (\uc5ec\uc790\ub9cc \ud68d\ub4dd\uac00\ub2a5)",
+            "chances_r": "7.71%",
+            "consts_r": 3855,
+            "chances_b": "6.52%",
+            "consts_b": 3260,
+            "count": 0
+        },
+        "6": {
+            "itemname": "\ud50c\ub808\uc784 \ud06c\ub77c\uc6b4",
+            "chances_r": "7.71%",
+            "consts_r": 4626,
+            "chances_b": "6.52%",
+            "consts_b": 3912,
+            "count": 0
+        },
+        "7": {
+            "itemname": "\uccb4\ud06c\uba54\uc774\ud2b8 \ucea1 (\ub0a8\uc790\ub9cc \ud68d\ub4dd\uac00\ub2a5) / \uccb4\ud06c\uba54\uc774\ud2b8 \uc96c\uc5bc (\uc5ec\uc790\ub9cc \ud68d\ub4dd\uac00\ub2a5)",
+            "chances_r": "7.71%",
+            "consts_r": 5397,
+            "chances_b": "6.52%",
+            "consts_b": 4564,
+            "count": 0
+        },
+        "8": {
+            "itemname": "\uc548\uac1c \uc81c\ub3c5 \ubaa8\uc790",
+            "chances_r": "7.71%",
+            "consts_r": 6168,
+            "chances_b": "6.52%",
+            "consts_b": 5216,
+            "count": 0
+        },
+        "9": {
+            "itemname": "\uc5bc\uc74c \uaf43\uac00\uc9c0 (\ub0a8\uc790\ub9cc \ud68d\ub4dd\uac00\ub2a5) / \uc9c4\uc8fc \uaf43\uac00\uc9c0 (\uc5ec\uc790\ub9cc \ud68d\ub4dd\uac00\ub2a5)",
+            "chances_r": "7.71%",
+            "consts_r": 6939,
+            "chances_b": "6.52%",
+            "consts_b": 5868,
+            "count": 0
+        },
+        "10": {
+            "itemname": "\ud587\uc0b4 \uc5ec\uc6b0 \ubaa8\uc790",
+            "chances_r": "7.71%",
+            "consts_r": 7710,
+            "chances_b": "6.52%",
+            "consts_b": 6520,
+            "count": 0
+        },
+        "11": {
+            "itemname": "\uc5d0\uba54\ub784\ub4dc \ub4dc\ub86d",
+            "chances_r": "7.71%",
+            "consts_r": 8481,
+            "chances_b": "6.52%",
+            "consts_b": 7172,
+            "count": 0
+        },
+        "12": {
+            "itemname": "\ubcc4\uc758 \uc804\uc5b8",
+            "chances_r": "11.85%",
+            "consts_r": 9666,
+            "chances_b": "20.42%",
+            "consts_b": 9214,
+            "count": 0
+        },
+        "13": {
+            "itemname": "\uc0b0\ub4e4 \ud5e4\uc5b4\ucfe0\ud3f0(\ub0a8) \uc120\ud0dd\uad8c / \uc724\uc2ac \ud5e4\uc5b4\ucfe0\ud3f0(\uc5ec) \uc120\ud0dd\uad8c",
+            "chances_r": "3.39%",
+            "consts_r": 10005,
+            "chances_b": "7.89%",
+            "consts_b": 10003,
+            "count": 0
+        }
+    },
+    "\uc637": {
+        "1": {
+            "itemname": "\ubc14\ub2e4 \ub9d1\uc74c (\ub0a8) / \ud558\ub298 \ub9d1\uc74c (\uc5ec)",
+            "chances_r": "7.55%",
+            "consts_r": 755,
+            "chances_b": "6.36%",
+            "consts_b": 636,
+            "count": 0
+        },
+        "2": {
+            "itemname": "\ud558\ub298 \uc18d\uc0ad\uc784 (\ub0a8) / \uc0b4\ub791 \uaf43\ub9dd\uc6b8 (\uc5ec)",
+            "chances_r": "7.55%",
+            "consts_r": 1510,
+            "chances_b": "6.36%",
+            "consts_b": 1272,
+            "count": 0
+        },
+        "3": {
+            "itemname": "\ubc24\uc0b0\ucc45 \ud55c\ubc8c\uc637 (\ub0a8) / \ubc24\uc0b0\ucc45 \ud55c\ubc8c\uc637 (\uc5ec)",
+            "chances_r": "7.55%",
+            "consts_r": 2265,
+            "chances_b": "6.36%",
+            "consts_b": 1908,
+            "count": 0
+        },
+        "4": {
+            "itemname": "\ub974 \ub8e8\ub098 (\ub0a8) / \ub77c \ub8e8\ub098 (\uc5ec)",
+            "chances_r": "7.55%",
+            "consts_r": 3020,
+            "chances_b": "6.36%",
+            "consts_b": 2544,
+            "count": 0
+        },
+        "5": {
+            "itemname": "\uc74c\uc545\ub300 \uc720\ub2c8\ud3fc (\ub0a8) / \uc74c\uc545\ub300 \uc720\ub2c8\ud3fc (\uc5ec)",
+            "chances_r": "7.55%",
+            "consts_r": 3775,
+            "chances_b": "6.36%",
+            "consts_b": 3180,
+            "count": 0
+        },
+        "6": {
+            "itemname": "\uc774\uadf8\ub2c8\uc2a4",
+            "chances_r": "7.55%",
+            "consts_r": 4530,
+            "chances_b": "6.36%",
+            "consts_b": 3816,
+            "count": 0
+        },
+        "7": {
+            "itemname": "\uccb4\ud06c\uba54\uc774\ud2b8 \ud0b9 (\ub0a8) / \uccb4\ud06c\uba54\uc774\ud2b8 \ud038 (\uc5ec)",
+            "chances_r": "7.55%",
+            "consts_r": 5285,
+            "chances_b": "6.36%",
+            "consts_b": 4452,
+            "count": 0
+        },
+        "8": {
+            "itemname": "\uc548\uac1c \uc81c\ub3c5",
+            "chances_r": "7.55%",
+            "consts_r": 6040,
+            "chances_b": "6.36%",
+            "consts_b": 5088,
+            "count": 0
+        },
+        "9": {
+            "itemname": "\uc5bc\uc74c \uad6c\ub984 (\ub0a8) / \uc9c4\uc8fc \uad6c\ub984 (\uc5ec)",
+            "chances_r": "7.55%",
+            "consts_r": 6795,
+            "chances_b": "6.36%",
+            "consts_b": 5724,
+            "count": 0
+        },
+        "10": {
+            "itemname": "\ud587\uc0b4 \uc5ec\uc6b0 \uaf2c\uae4c\uc637",
+            "chances_r": "7.55%",
+            "consts_r": 7550,
+            "chances_b": "6.36%",
+            "consts_b": 6360,
+            "count": 0
+        },
+        "11": {
+            "itemname": "\uc655\uad81 \uc608\uc220\uac00 (\ub0a8) / \uad81\uc815 \uc608\uc220\uac00 (\uc5ec)",
+            "chances_r": "7.55%",
+            "consts_r": 8305,
+            "chances_b": "6.36%",
+            "consts_b": 6996,
+            "count": 0
+        },
+        "12": {
+            "itemname": "\uafc8\uc758 \uc778\ub3c4\uc790 (\ub0a8) / \uafc8\uc758 \uc548\ub0b4\uc790 (\uc5ec)",
+            "chances_r": "13.68%",
+            "consts_r": 9673,
+            "chances_b": "22.37%",
+            "consts_b": 9233,
+            "count": 0
+        },
+        "13": {
+            "itemname": "\uc0b0\ub4e4 \ud5e4\uc5b4\ucfe0\ud3f0(\ub0a8) \uc120\ud0dd\uad8c / \uc724\uc2ac \ud5e4\uc5b4\ucfe0\ud3f0(\uc5ec) \uc120\ud0dd\uad8c",
+            "chances_r": "3.32%",
+            "consts_r": 10005,
+            "chances_b": "7.69%",
+            "consts_b": 10002,
+            "count": 0
+        }
+    },
+    "\ub9dd\ud1a0/\uc7a5\uac11": {
+        "1": {
+            "itemname": "\uc368\ub2c8 \uc624\uc158",
+            "chances_r": "7.64%",
+            "consts_r": 764,
+            "chances_b": "6.27%",
+            "consts_b": 627,
+            "count": 0
+        },
+        "2": {
+            "itemname": "\uaf43\uad6c\ub984 \uc120\uc728",
+            "chances_r": "7.64%",
+            "consts_r": 1528,
+            "chances_b": "6.27%",
+            "consts_b": 1254,
+            "count": 0
+        },
+        "3": {
+            "itemname": "\uc218\ud638 \ub0a0\uac1c",
+            "chances_r": "7.64%",
+            "consts_r": 2292,
+            "chances_b": "6.27%",
+            "consts_b": 1881,
+            "count": 0
+        },
+        "4": {
+            "itemname": "\uc2a4\ud30c\ud074\ub9c1 \ubc00\ud0a4\uc6e8\uc774",
+            "chances_r": "7.64%",
+            "consts_r": 3056,
+            "chances_b": "6.27%",
+            "consts_b": 2508,
+            "count": 0
+        },
+        "5": {
+            "itemname": "\uc74c\uc545\ub300 \uce5c\uad6c\ub4e4",
+            "chances_r": "7.64%",
+            "consts_r": 3820,
+            "chances_b": "6.27%",
+            "consts_b": 3135,
+            "count": 0
+        },
+        "6": {
+            "itemname": "\ud50c\ub808\uc784 \uc11c\ud074",
+            "chances_r": "7.64%",
+            "consts_r": 4584,
+            "chances_b": "6.27%",
+            "consts_b": 3762,
+            "count": 0
+        },
+        "7": {
+            "itemname": "\ud0c0\uc784 \uc544\uc6c3",
+            "chances_r": "7.64%",
+            "consts_r": 5348,
+            "chances_b": "6.27%",
+            "consts_b": 4389,
+            "count": 0
+        },
+        "8": {
+            "itemname": "\ud478\ub978 \ubb3c\uacb0",
+            "chances_r": "7.64%",
+            "consts_r": 6112,
+            "chances_b": "6.27%",
+            "consts_b": 5016,
+            "count": 0
+        },
+        "9": {
+            "itemname": "\uaf43 \uadf8\ub9bc\uc790",
+            "chances_r": "7.64%",
+            "consts_r": 6876,
+            "chances_b": "6.27%",
+            "consts_b": 5643,
+            "count": 0
+        },
+        "10": {
+            "itemname": "\ud587\uc0b4 \uc5ec\uc6b0 \uaf2c\ub9ac",
+            "chances_r": "7.64%",
+            "consts_r": 7640,
+            "chances_b": "6.27%",
+            "consts_b": 6270,
+            "count": 0
+        },
+        "11": {
+            "itemname": "\uc601\uc608\uc758 \uc637\uc790\ub77d",
+            "chances_r": "7.64%",
+            "consts_r": 8404,
+            "chances_b": "6.27%",
+            "consts_b": 6897,
+            "count": 0
+        },
+        "12": {
+            "itemname": "\ube5b\uc758 \uac00\ud638",
+            "chances_r": "12.61%",
+            "consts_r": 9665,
+            "chances_b": "23.45%",
+            "consts_b": 9242,
+            "count": 0
+        },
+        "13": {
+            "itemname": "\uc0b0\ub4e4 \ud5e4\uc5b4\ucfe0\ud3f0(\ub0a8) \uc120\ud0dd\uad8c / \uc724\uc2ac \ud5e4\uc5b4\ucfe0\ud3f0(\uc5ec) \uc120\ud0dd\uad8c",
+            "chances_r": "3.36%",
+            "consts_r": 10001,
+            "chances_b": "7.59%",
+            "consts_b": 10001,
+            "count": 0
+        }
+    },
+    "\uc2e0\ubc1c": {
+        "1": {
+            "itemname": "\ubc14\ub2e4\ub97c \ud56d\ud574 (\ub0a8) / \ud30c\ub3c4\uc640 \ud568\uaed8 (\uc5ec)",
+            "chances_r": "7.67%",
+            "consts_r": 767,
+            "chances_b": "6.31%",
+            "consts_b": 631,
+            "count": 0
+        },
+        "2": {
+            "itemname": "\ub098\ube44\uc120",
+            "chances_r": "7.67%",
+            "consts_r": 1534,
+            "chances_b": "6.31%",
+            "consts_b": 1262,
+            "count": 0
+        },
+        "3": {
+            "itemname": "\uc544\uc7a5\uc544\uc7a5",
+            "chances_r": "7.67%",
+            "consts_r": 2301,
+            "chances_b": "6.31%",
+            "consts_b": 1893,
+            "count": 0
+        },
+        "4": {
+            "itemname": "\uc0e4\uc774\ub2dd \ubb38\uc6cc\ud06c",
+            "chances_r": "7.67%",
+            "consts_r": 3068,
+            "chances_b": "6.31%",
+            "consts_b": 2524,
+            "count": 0
+        },
+        "5": {
+            "itemname": "\uacbd\ucf8c\ud55c \ud589\uc9c4",
+            "chances_r": "7.67%",
+            "consts_r": 3835,
+            "chances_b": "6.31%",
+            "consts_b": 3155,
+            "count": 0
+        },
+        "6": {
+            "itemname": "\ud50c\ub808\uc784 \uc6cc\ud06c",
+            "chances_r": "7.67%",
+            "consts_r": 4602,
+            "chances_b": "6.31%",
+            "consts_b": 3786,
+            "count": 0
+        },
+        "7": {
+            "itemname": "\uccb4\ud06c\uba54\uc774\ud2b8 \uc288\uc988",
+            "chances_r": "7.67%",
+            "consts_r": 5369,
+            "chances_b": "6.31%",
+            "consts_b": 4417,
+            "count": 0
+        },
+        "8": {
+            "itemname": "\uc548\uac1c \uc81c\ub3c5 \ubd80\uce20",
+            "chances_r": "7.67%",
+            "consts_r": 6136,
+            "chances_b": "6.31%",
+            "consts_b": 5048,
+            "count": 0
+        },
+        "9": {
+            "itemname": "\uad6c\ub984 \uae43\ud138",
+            "chances_r": "7.67%",
+            "consts_r": 6903,
+            "chances_b": "6.31%",
+            "consts_b": 5679,
+            "count": 0
+        },
+        "10": {
+            "itemname": "\ud587\uc0b4 \uc5ec\uc6b0 \ub11d\ucfe8",
+            "chances_r": "7.67%",
+            "consts_r": 7670,
+            "chances_b": "6.31%",
+            "consts_b": 6310,
+            "count": 0
+        },
+        "11": {
+            "itemname": "\uc5d0\uba54\ub784\ub4dc \uad6c\ub450",
+            "chances_r": "7.67%",
+            "consts_r": 8437,
+            "chances_b": "6.31%",
+            "consts_b": 6941,
+            "count": 0
+        },
+        "12": {
+            "itemname": "\ubcc4\ube5b \uac78\uc74c",
+            "chances_r": "12.23%",
+            "consts_r": 9660,
+            "chances_b": "22.90%",
+            "consts_b": 9231,
+            "count": 0
+        },
+        "13": {
+            "itemname": "\uc0b0\ub4e4 \ud5e4\uc5b4\ucfe0\ud3f0(\ub0a8) \uc120\ud0dd\uad8c / \uc724\uc2ac \ud5e4\uc5b4\ucfe0\ud3f0(\uc5ec) \uc120\ud0dd\uad8c",
+            "chances_r": "3.38%",
+            "consts_r": 9998,
+            "chances_b": "7.63%",
+            "consts_b": 9994,
+            "count": 0
+        }
+    },
+    "\ubb34\uae30": {
+        "1": {
+            "itemname": "\uc5b8\uc81c\ub098 \ubc14\ub2e4",
+            "chances_r": "7.62%",
+            "consts_r": 762,
+            "chances_b": "6.15%",
+            "consts_b": 615,
+            "count": 0
+        },
+        "2": {
+            "itemname": "\ud558\ub298 \uaf43\ub098\ube44",
+            "chances_r": "7.62%",
+            "consts_r": 1524,
+            "chances_b": "6.15%",
+            "consts_b": 1230,
+            "count": 0
+        },
+        "3": {
+            "itemname": "\uc544\uae30\uacf0 \ubc24\uc0b0\ucc45",
+            "chances_r": "7.62%",
+            "consts_r": 2286,
+            "chances_b": "6.15%",
+            "consts_b": 1845,
+            "count": 0
+        },
+        "4": {
+            "itemname": "\ubb38\ub77c\uc774\ud2b8 \ub7a8\ud504",
+            "chances_r": "7.62%",
+            "consts_r": 3048,
+            "chances_b": "6.15%",
+            "consts_b": 2460,
+            "count": 0
+        },
+        "5": {
+            "itemname": "\uc74c\uc545\ub300 \uc9c0\ud718\ubd09",
+            "chances_r": "7.62%",
+            "consts_r": 3810,
+            "chances_b": "6.15%",
+            "consts_b": 3075,
+            "count": 0
+        },
+        "6": {
+            "itemname": "\uc774\uadf8\ub098\uc774\ud2b8",
+            "chances_r": "7.62%",
+            "consts_r": 4572,
+            "chances_b": "6.15%",
+            "consts_b": 3690,
+            "count": 0
+        },
+        "7": {
+            "itemname": "\uccb4\uc2a4\ud038 \ud558\ud2b8",
+            "chances_r": "7.62%",
+            "consts_r": 5334,
+            "chances_b": "6.15%",
+            "consts_b": 4305,
+            "count": 0
+        },
+        "8": {
+            "itemname": "\uac80\uc740 \ud30c\ub3c4",
+            "chances_r": "7.62%",
+            "consts_r": 6096,
+            "chances_b": "6.15%",
+            "consts_b": 4920,
+            "count": 0
+        },
+        "9": {
+            "itemname": "\uc2ec\uc5f0\uc758 \uc6b4\uc728",
+            "chances_r": "7.62%",
+            "consts_r": 6858,
+            "chances_b": "6.15%",
+            "consts_b": 5535,
+            "count": 0
+        },
+        "10": {
+            "itemname": "\ud587\uc0b4 \uc5ec\uc6b0 \uce5c\uad6c\ub4e4",
+            "chances_r": "7.62%",
+            "consts_r": 7620,
+            "chances_b": "6.15%",
+            "consts_b": 6150,
+            "count": 0
+        },
+        "11": {
+            "itemname": "\uc5d0\uba54\ub784\ub4dc\uc758 \uc2dc",
+            "chances_r": "7.62%",
+            "consts_r": 8382,
+            "chances_b": "6.15%",
+            "consts_b": 6765,
+            "count": 0
+        },
+        "12": {
+            "itemname": "\ubcc4\uc758 \uc804\ub839",
+            "chances_r": "11.73%",
+            "consts_r": 9555,
+            "chances_b": "22.50%",
+            "consts_b": 9015,
+            "count": 0
+        },
+        "13": {
+            "itemname": "\uc0b0\ub4e4 \ud5e4\uc5b4\ucfe0\ud3f0(\ub0a8) \uc120\ud0dd\uad8c / \uc724\uc2ac \ud5e4\uc5b4\ucfe0\ud3f0(\uc5ec) \uc120\ud0dd\uad8c",
+            "chances_r": "4.47%",
+            "consts_r": 10002,
+            "chances_b": "9.90%",
+            "consts_b": 10005,
+            "count": 0
+        }
+    }
+}
