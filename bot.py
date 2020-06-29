@@ -76,5 +76,5 @@ for filename in os.listdir('.\\cogs'):
 async def ping(ctx):
     await ctx.send(f'Pong! {round(client.latency * 1000)}ms')
 
-
-client.run('NzA2OTIwNTY5OTAzMzgyNTcw.XrqSJw.xlBg_6ykZYs8HD0LC8tKUKxe5jI')
+access_token = os.environ["BOT_TOKEN"]
+client.run(access_token)
