@@ -1,4 +1,3 @@
-discord
 discord.py
 bs4
 json
