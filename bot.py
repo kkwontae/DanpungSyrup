@@ -51,11 +51,13 @@ async def changePrefix(ctx, prefix):
     with open('data/prefixes.json', 'r') as f:
         prefixes = json.load(f)
 
-    #명령 수식어 기본값을 (;;)로 지정
+    #명령 수식어 기본값을 지정한 (prefix)로 지정
     prefixes[str(ctx.guild.id)] = prefix
 
     with open('data/prefixes.json','w') as f:
         json.dump(prefixes, f, indent=4)
+        
+    await ctx.send(f'명령수식어가 {prefix}로 변경되었습니다.')
 
 @client.command()
 @commands.has_role('MapleBotDeveloper')
