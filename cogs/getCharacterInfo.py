@@ -52,7 +52,7 @@ class getCharacterInfo(commands.Cog):
             char_default['servername'] = getServername(bs_obj)
             if char_default['servername'][:3] == '리부트':
                 isReboot = True
-            char_default['level'] = defaultInfo[0].split(".")[1]
+            char_default['level'] = (defaultInfo[0].split(".")[1]).split("(")[0]
             char_default['job'] = defaultInfo[1]
             char_default['like'] = defaultInfo[2].split("\n")[1]
             char_default['exp'] = getExp(nickname, isReboot)
